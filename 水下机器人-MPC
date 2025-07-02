@@ -1,1 +1,4 @@
-1.High-Speed Obstacle Avoidance of a Large-Scale Underactuated Autonomous Underwater Vehicle Under a Finite Field of View
+ 1.High-Speed Obstacle Avoidance of a Large-Scale Underactuated Autonomous Underwater Vehicle Under a Finite Field of View          
+  2025,TRANSACTIONS ON AUTOMATION SCIENCE AND ENGINEERING
+考虑了AUV的规模、传感器的有限视场、输入饱和、系统状态的物理限制以及垂直欠驱动速度的影响，提出了一种鲁棒非线性模型预测控制（RNMPC）方案。
+针对完全未知环境中存在非凸障碍物的导航问题，提出了一种动态感知与避碰方案，将避碰问题恰当地转化为RNMPC优化问题中的凸约束。仿真验证
